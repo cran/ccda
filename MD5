@@ -1,11 +1,11 @@
-8d52816563a74b41376dbd9b98c706ab *DESCRIPTION
+b7aa59c2a2e79309b77d5a7a3325ff2a *DESCRIPTION
 a8a01712e0d77ac64a49766bb2a5ad90 *NAMESPACE
-89dd3fa0cf5002455ab7b1e3a652e6df *R/ccda-internal.R
-daff1aa0d2d80451d932208428142bb1 *R/ccda.main.R
-0421279ba67d47517e0ae67801482f4e *R/percentage.R
+5b15505e9e4923484c14838199103a10 *R/ccda-internal.R
+83eb2a42f414160475ee7679cec8ad9a *R/ccda.main.R
+0a43a93e181366862acbfb1b1ec328b3 *R/percentage.R
 6c704c298d2331bc6bf262bb8085d233 *R/plotccda.cluster.R
-4804c1fc0a111a31bf437ae86253af0c *R/plotccda.q95.R
-9da8ac5f450080d22bfed148789e926b *R/plotccda.results.R
+2f126279b37d73ab85c1f39da1c8c725 *R/plotccda.q95.R
+2c934bb142b25afbc7aba38a66ff0447 *R/plotccda.results.R
 bb71af7c9cd5307b5c52872607ef04ad *man/ccda.main.Rd
 299d005fc3d29b4dad7d86953304fc55 *man/percentage.Rd
 3f8ba9514001d3bc30334e01b48a010e *man/plotccda.cluster.Rd
