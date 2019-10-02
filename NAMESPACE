@@ -2,3 +2,8 @@ exportPattern("^[[:alpha:]]+")
 #explort(percentage)
 
 import(MASS)
+
+importFrom("graphics", "abline", "axis", "legend", "lines", "par",
+           "plot", "strheight", "strwidth")
+importFrom("stats", "cutree", "density", "dist", "hclust", "predict",
+           "quantile")
